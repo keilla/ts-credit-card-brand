@@ -2,3 +2,4 @@ node_modules
 src
 dist
 tsconfig.json
+jest.config.js

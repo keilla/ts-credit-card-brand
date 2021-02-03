@@ -1,0 +1,1 @@
+export { CreditCardBrandCatalog } from './credit-card-brand-catalog/credit-card-brand-catalog';
